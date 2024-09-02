@@ -1,4 +1,4 @@
-package com.farhad.farmcollector.farmcollector;
+package com.farhad.farmcollector;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

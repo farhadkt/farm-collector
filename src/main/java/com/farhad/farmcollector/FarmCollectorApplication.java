@@ -1,13 +1,13 @@
-package com.farhad.farmcollector.farmcollector;
+package com.farhad.farmcollector;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarmcollectorApplication {
+public class FarmCollectorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FarmcollectorApplication.class, args);
+		SpringApplication.run(FarmCollectorApplication.class, args);
 	}
 
 }
